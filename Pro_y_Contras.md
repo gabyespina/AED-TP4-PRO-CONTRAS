@@ -1,7 +1,7 @@
 ## Ventajas y Desventajas :
-### Tipos de Diagramas
 ---
-... ![alt text] (http://elticus.com/img/iconos_articulos/diagrama.jpg "Logo 1")  ![alt text] (http://www.chip.de/ii/2/1/8/7/4/8/0/5/e3ab1e4769065e3d.jpg "Logo 2") ![alt text] ( http://www.megacable.com.mx/images/layout/icons/diagram.png "Logo 3") ![alt text] (http://upload.wikimedia.org/math/d/e/3/de328d0da1af8a2642ff27f793095ab3.png "logo 4") 
+### Tipos de Diagramas
+--- ![alt text] (http://elticus.com/img/iconos_articulos/diagrama.jpg "Logo 1")  ![alt text] (http://www.chip.de/ii/2/1/8/7/4/8/0/5/e3ab1e4769065e3d.jpg "Logo 2") ![alt text] ( http://www.megacable.com.mx/images/layout/icons/diagram.png "Logo 3") ![alt text] (http://upload.wikimedia.org/math/d/e/3/de328d0da1af8a2642ff27f793095ab3.png "logo 4") 
 ---
 
 | Diagrama | Ventajas | Desventajas |Ejemplo|
@@ -15,4 +15,4 @@
 >####Conclusion : 
 >En mi opinion, prefiero utilizar el diagrama de flujo, ya que se me hace mas sencillo de llevar a cabo, y de leerlo. Es rapido, y cualquier persona puede entender cualquier programa que se halla graficado de esta manera.
 
-![alt text] http://img1.wikia.nocookie.net/__cb20101230082913/morsapedia/es/images/b/b2/Programador.gif "Logo 5")
+![alt text] (http://img1.wikia.nocookie.net/__cb20101230082913/morsapedia/es/images/b/b2/Programador.gif "Logo 9")
