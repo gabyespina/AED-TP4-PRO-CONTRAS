@@ -1,6 +1,6 @@
 ## Ventajas y Desventajas :
 ---
-### Tipos de Diagramas -> ![alt text] (http://elticus.com/img/iconos_articulos/diagrama.jpg "Logo 1")  ![alt text] (http://www.chip.de/ii/2/1/8/7/4/8/0/5/e3ab1e4769065e3d.jpg "Logo 2") ![alt text] ( http://www.megacable.com.mx/images/layout/icons/diagram.png "Logo 3") ![alt text] (http://upload.wikimedia.org/math/d/e/3/de328d0da1af8a2642ff27f793095ab3.png "logo 4") 
+### Tipos de Diagramas  ![alt text] (http://elticus.com/img/iconos_articulos/diagrama.jpg "Logo 1")  ![alt text] (http://www.chip.de/ii/2/1/8/7/4/8/0/5/e3ab1e4769065e3d.jpg "Logo 2") ![alt text] ( http://www.megacable.com.mx/images/layout/icons/diagram.png "Logo 3") ![alt text] (http://upload.wikimedia.org/math/d/e/3/de328d0da1af8a2642ff27f793095ab3.png "logo 4") 
 ---
 
 | Diagrama | Ventajas | Desventajas |Ejemplo|
