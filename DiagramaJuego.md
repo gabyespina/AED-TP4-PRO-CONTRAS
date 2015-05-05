@@ -2,7 +2,7 @@
 
 > ###### El enlace lleva a los prodecimientos por ejemplo :
           Etiqueta (proced) 1 : Preguntas de matematica
-          Etiqueta (proced)  2 : Preguntas de historia..
+          Etiqueta (proced) 2 : Preguntas de historia..
           etc.
 
 JUEGO :  ![alt text] (http://www.englisch-hilfen.de/img/klassen/multiplechoice.svg "logo 4")  [Diagrama Principal] (https://drive.google.com/file/d/0B9xGyEp62QRveTNBOGZLV1hkNUk/view?usp=sharing)
